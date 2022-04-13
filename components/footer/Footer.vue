@@ -1,7 +1,7 @@
 <template>
   <div class="pt-5">
     <footer>
-      <div class="container" style="width: 1930px">
+      <div class="container">
         <p>
           <b>DISCLAIMER</b> Online Glücksspiel ist in einigen Ländern illegal.
           Es liegt daher in der Verantwortung des Spieler, die örtlichen

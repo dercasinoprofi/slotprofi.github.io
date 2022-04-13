@@ -1,9 +1,9 @@
 <template>
   <div>
     <div class="container">
-      <div class="row">
+      <div class="row pt-5">
         <div
-          class="col-4 pt-5"
+          class="col-xl-4 col-lg-4 col-md-4 col-sm-6"
           v-for="(provider, index) in providers"
           :key="index"
         >

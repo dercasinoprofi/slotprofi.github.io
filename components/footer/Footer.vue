@@ -13,7 +13,11 @@
         <div class="row">
           <div class="col-sm-2">
             <ul class="sitemap-links">
-              <li><a href="/">Casino Vergleicher</a></li>
+              <li>
+                <nuxt-link to="/" :title="config.title">{{
+                  config.siteName
+                }}</nuxt-link>
+              </li>
               <!-- <li><a href="/slots/">Slots</a></li> -->
             </ul>
           </div>
